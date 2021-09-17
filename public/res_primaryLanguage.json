@@ -11,39 +11,67 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Hand2Hand",
+        "startDate": "2021",
+        "description": "A store application where you can buy and sell homemade products.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Hand2Hand/HomePage.jpg",
+          "images/portfolio/Hand2Hand/StorePage.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/SAD-co-Software-Application-Development/Hand2Hand",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Salmon Cookies",
+        "startDate": "2021",
+        "description": "Adaptable application for new Salmon-Cookies business with the ability to add and remove the locations of the stores.\nUsed Local Storage to store, get and delete items.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/SalmonCookies/HomePage.jpg",
+          "images/portfolio/SalmonCookies/LocationPage.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Mohammad-Abdul-Ghafour/Salmon-Cookies",
         "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          }
+        ]
+      },
+      {
+        "title": "Horned Beast",
+        "startDate": "2021",
+        "description": "An React application to display gallory of image and interact by adding like and open the image in modal using bootstrap.",
+        "images": [
+          "images/portfolio/HornedBeast/HomePage.jpg",
+          "images/portfolio/HornedBeast/FilteredPage.jpg"
+        ],
+        "url": "https://github.com/Mohammad-Abdul-Ghafour/horned-beasts",
+        "technologies": [
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
           {
             "class": "devicon-react-original",
             "name": "React"
@@ -51,30 +79,6 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
           }
         ]
       }
