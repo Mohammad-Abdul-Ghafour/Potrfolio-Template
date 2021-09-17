@@ -67,3 +67,16 @@ I’m an Auto Control & Computers Engineer / Web Developer I'm passionate about 
 2. Al-Baath University, Homes-Syria, September 2012 - June 2017
     *   Auto Control & Computers Engineer
 
+_________________________________________________________________________________________________
+
+### Time Estimate :
+
+Number and name of feature: Deploy and Extend Your Portfolio
+
+Estimate of time needed to complete: 2 Hours
+
+Start time: 10:00 PM
+
+Finish time: 12:00 AM
+
+Actual time needed to complete: 2 Hours
