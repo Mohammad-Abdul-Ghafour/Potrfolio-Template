@@ -1,7 +1,6 @@
 @import '/src/scss/themes/theme-dark.scss';
 @import '/src/scss/themes/theme-light.scss';
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
-
 html {
 	font-size: 62.5%;
 	-webkit-font-smoothing: antialiased;
@@ -38,7 +37,8 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	// background-color: #AA9473;
+	background-image: url("https://img2.wallspic.com/originals/6/5/7/1/1/111756-monochrome_mode-line-illustration-angle-triangle-5120x2880.jpg");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -389,7 +389,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #2E2714;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -414,7 +414,7 @@ header h1 {
 }
 
 footer {
-	background: #1F1F1F;
+	background: #2E2714;
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;
@@ -431,7 +431,7 @@ footer a:visited {
 
 footer a:hover,
 footer a:focus {
-	color: #fff;
+	color: #e0c16b;
 }
 
 .social-links {

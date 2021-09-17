@@ -11,7 +11,7 @@ body[data-theme="dark"] {
    }
 
    .header-icon {
-      color: #3C342C;
+      color: #fdf4eb;
       opacity: 0.8;
    }
 
@@ -33,8 +33,12 @@ body[data-theme="dark"] {
    }
 
    header {
-      background-color: #494949;
+      // background-color: #494949;
+      background-image: url("../../components/images/MyBanner.jpg");
       h1 {
+         color: white;
+      }
+      .title-container {
          color: white;
       }
    }
