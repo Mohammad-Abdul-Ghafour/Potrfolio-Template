@@ -13,12 +13,12 @@
     {
       "title": "Hand2Hand",
       "startDate": "2021",
-      "description": "تطبيق لمتجر حيث يمكنك شراء و بيع منتجات مصنوعة يدوياً.",
+      "description": "تطبيق لمتجر حيث يمكنك شراء منتجات حرفية مصنوعة يدوياً",
       "images": [
         "images/portfolio/Hand2Hand/HomePage.jpg",
         "images/portfolio/Hand2Hand/StorePage.jpg"
       ],
-      "url": "https://github.com/SAD-co-Software-Application-Development/Hand2Hand",
+      "url": "https://sad-co-software-application-development.github.io/Hand2Hand/",
       "technologies": [
         {
           "class": "devicon-javascript-plain",
@@ -35,68 +35,87 @@
       ]
     },
     {
-      "title": "Salmon Cookies",
+      "title": "GameHoarders",
       "startDate": "2021",
-      "description": ".موقع لمتجر جديد يقوم ببيع حلويات السمك مع امكانية الحصول على موقع المتجر\n .لتخزين البيانات Local Storage ويستخدم الـ ",
+      "description": "موقع يتيح للمستخدم امكانية تتبع احدث العاب الفدية و اضافتها الى قائمته المفضلة و ايضاً يمكنه كتابة تعليق عن اللعبة و تجربته فيها",
       "images": [
-        "images/portfolio/SalmonCookies/HomePage.jpg",
-        "images/portfolio/SalmonCookies/LocationPage.jpg"
+        "images/portfolio/GameHoarders/p1.png",
+        "images/portfolio/GameHoarders/p2.png"
       ],
-      "url": "https://github.com/Mohammad-Abdul-Ghafour/Salmon-Cookies",
+      "url": "https://gamehoarders-site.netlify.app",
       "technologies": [
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS"
-        },
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML"
-        }
-      ]
-    },
-    {
-      "title": "Horned Beast",
-      "startDate": "2021",
-      "description": ".لعرض الصور ويسمح بامكانية التفاعل من خلال الاعجاب بالصور React تطبيق\n .في تصميمه Bootstrap ويستخدم الـ ",
-      "images": [
-        "images/portfolio/HornedBeast/HomePage.jpg",
-        "images/portfolio/HornedBeast/FilteredPage.jpg"
-      ],
-      "url": "https://github.com/Mohammad-Abdul-Ghafour/horned-beasts",
-      "technologies": [
-        {
-          "class": "devicon-bootstrap-plain",
-          "name": "Bootstrap"
-        },
         {
           "class": "devicon-react-original",
           "name": "React"
         },
         {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "HR System",
+      "startDate": "2022",
+      "description": "نظام ادارة شؤن المظفين لشركة",
+      "images": [
+        "images/portfolio/HrSys/p1.png",
+        "images/portfolio/HrSys/p2.png",
+        "images/portfolio/HrSys/p3.png",
+        "images/portfolio/HrSys/p4.png"
+      ],
+      "url": "https://hr-system-flawmas.netlify.app",
+      "technologies": [
+        {
+          "class": "devicon-nextjs-original",
+          "name": "Next.js"
+        },
+        {
+          "class": "devicon-redux-original",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-django-plain",
+          "name": "Django"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "Tailwind CSS"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
         }
       ]
     }
   ],
   "experience": [
     {
-      "company": "Mn Al Akher",
-      "title": "Social Media & designer",
+      "company": "Freelancer",
+      "title": "Software Engineer",
       "years": "08.2019 - 06.2021",
       "mainTech": [
-        "Photoshop"
+        "VB.Net"
       ],
       "technologies": [
-        "Facebook Ad Manager",
-        "Illustrator",
-        "Davinci Resolve 17",
-        "Filmora 9",
-        "After Effects"
+        "ERP System",
+        "Zkteco Fingerprint SDK"
       ]
     },
     {
